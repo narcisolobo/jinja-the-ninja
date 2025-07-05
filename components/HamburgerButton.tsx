@@ -1,4 +1,5 @@
-import { Dispatch, SetStateAction } from "react";
+"use client";
+
 import { HiMenu } from "react-icons/hi";
 
 interface HamburgerButtonProps {
